@@ -1,2 +1,2 @@
 # PROJETO-G.A.C
-Projete para o TCC
+Projeto para o TCC
